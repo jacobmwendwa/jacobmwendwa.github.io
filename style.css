@@ -580,3 +580,32 @@ footer {
         padding: 16px;
     }
 }
+
+
+/* Make hero buttons clearly visible */
+
+.hero-buttons .primary {
+    background: #38bdf8;
+    color: #0f172a;
+    border: 2px solid #38bdf8;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.hero-buttons .primary:hover {
+    background: #ffffff;
+    border-color: #ffffff;
+    color: #172554;
+}
+
+.hero-project-btn {
+    background: #ffffff;
+    color: #172554;
+    border: 2px solid #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.hero-project-btn:hover {
+    background: transparent;
+    color: #ffffff;
+    border-color: #ffffff;
+}
