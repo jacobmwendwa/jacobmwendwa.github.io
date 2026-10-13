@@ -1,57 +1,86 @@
-# Jacob Musyoki — Personal Portfolio
+# Jacob Mwendwa Musyoki
 
-Welcome to my personal portfolio! This repository contains the source code for my portfolio website, where I showcase my IT skills, projects, and professional interests.
+### IT Support & Infrastructure | Software Development
 
-## About Me
+Welcome to my GitHub portfolio! I am a Computer Science graduate based in Nairobi, Kenya, with experience in IT technical support, troubleshooting, computer systems, and web application development.
 
-I am an IT professional interested in software development, IT infrastructure, system administration, and web technologies. I enjoy learning new technologies and building practical solutions to real-world problems.
+I enjoy solving technical problems, supporting users, and building practical software solutions using Python, Django, and database technologies.
 
-My goal is to continue developing my technical skills and contribute to reliable, user-friendly technology solutions.
+## 🌐 Portfolio Website
 
-## Technical Skills
+Visit my personal portfolio to learn more about my background, skills, and projects.
 
-- **Programming:** Python
-- **Web Development:** HTML, CSS, Django
-- **Database Management:** PostgreSQL, SQLite
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Deployment:** Render, GitHub Pages
-- **IT Support:** Troubleshooting, system maintenance, and technical support
+**Live Portfolio:** https://jacobmwendwa.github.io/
 
-## Featured Project: FleetTrack
+**CV:** Available to download from my portfolio website.
 
-FleetTrack is a fleet management web application developed using Django and PostgreSQL.
+## 🚀 Featured Projects
 
-**Key features include:**
+### 1. FleetTrack — Fleet Management System
 
-- Dashboard for fleet information
-- Vehicle and driver management
-- Trip and expense management
-- Maintenance and fuel records
-- Alerts and vehicle documents
-- User authentication and administration
+A Django-based fleet management web application developed as a practical learning project. It brings together vehicle and fleet operations in a single system.
 
-**Technologies used:** Python, Django, HTML, CSS, PostgreSQL, Git, GitHub, and Render.
+**Key features:**
+- Dashboard for fleet information and activity.
+- Vehicle and driver management.
+- Trip, expense, maintenance, and fuel management modules.
+- Alerts, documents, reports, and administrative navigation.
 
-- **Live application:** [https://fleettrack-e1bn.onrender.com](https://fleettrack-e1bn.onrender.com)
-- **Source code:** [https://github.com/jacobmwendwa/fleettrack](https://github.com/jacobmwendwa/fleettrack)
+**Technologies:** Python, Django, HTML, CSS, PostgreSQL.
 
-## Portfolio Website
+- **Live application:** https://fleettrack-e1bn.onrender.com/
+- **Source code:** https://github.com/jacobmwendwa/fleettrack
 
-This portfolio is built with:
+### 2. Task Manager Web Application
 
-- HTML5
-- CSS3
-- Responsive web design
+A web application developed to practise user authentication, task management, and database integration.
 
-The website is hosted using GitHub Pages.
+**Key features:**
+- User registration and login.
+- Personal task dashboard.
+- Task creation and management.
+- Database-backed application functionality.
 
-## Contact
+**Technologies:** Python, Django, MySQL, HTML, CSS.
 
-- **Email:** [jacobmwendwa28@gmail.com](mailto\:jacobmwendwa28@gmail.com)
-- **GitHub:** [https://github.com/jacobmwendwa](https://github.com/jacobmwendwa)
+**Project source:** Add the GitHub repository link here if the project has a separate repository.
 
-Feel free to explore my projects or contact me regarding IT opportunities, collaboration, or professional development.
+### 3. Blockchain and Healthcare Research Prototype
 
----
+An academic project exploring blockchain concepts and related web technologies. The work includes a Python blockchain simulation using SHA-256 hashing and a basic proof-of-work mechanism, alongside experiments with Solidity, Ethereum development tools, and Web3.
 
-*Thank you for visiting my portfolio!*
+This project represents a learning and research prototype; it should not be considered a completed healthcare records platform or a production-ready medical data system.
+
+**Technologies:** Python, SHA-256, Solidity, Ethereum tools, Web3, JavaScript.
+
+**Project source:** Add the GitHub repository link here if it is available.
+
+## 🛠️ Technical Skills
+
+- **IT Support:** Troubleshooting, software installation, user assistance, and technical documentation.
+- **Infrastructure & Networking:** Computer systems, networking fundamentals, and IT infrastructure support.
+- **Programming:** Python, JavaScript, HTML, CSS.
+- **Web Development:** Django and basic web application development.
+- **Databases:** MySQL and PostgreSQL.
+- **Blockchain Technologies:** Solidity, Ethereum development tools, and Web3 experimentation.
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+Karatina University  
+September 2020 – October 2024
+
+## 💼 Professional Experience
+
+- **IT Technical Support Officer** — Decho Company (June 2025 – April 2026)
+- **Project Manager Intern/Attachment** — Makueni Tech & Innovation Hub (August – October 2023)
+- **Industrial Attaché** — Makueni ICT Tech & Innovation Hub (May – August 2023)
+- **Database Administrator** — Helping Hands Foundation (August – October 2022)
+
+## 📫 Contact
+
+- **Email:** jacobmwendwa28@gmail.com
+- **Location:** Nairobi, Kenya
+- **Portfolio:** https://jacobmwendwa.github.io/
+
+Thank you for visiting my portfolio. I welcome opportunities in IT support, infrastructure, technical operations, and software development.
